@@ -7,17 +7,15 @@ custom Ender 3 build
 - TMC2208 drivers in UART mode
 - BLTouch V3
 - Ender3 stock display
-- top-down LED lighting
+- BMG style extruder
 
 ########################################
 
 AnalogBot's Klipper config, modified from /u/VonThing Reddit post
 
-Originally posted on https://www.reddit.com/r/klippers/comments/csjzid/sample_config_for_ender_3_bltouch_v30_skr_v13/
-
-(c) VonThing 2019
-
-Licensed under CC-BY-SA-4.0 https://choosealicense.com/licenses/cc-by-sa-4.0/
+Originally posted on https://www.reddit.com/r/klippers/comments/csjzid/sample_config_for_ender_3_bltouch_v30_skr_v13/  
+(c) VonThing 2019  
+Licensed under CC-BY-SA-4.0 https://choosealicense.com/licenses/cc-by-sa-4.0/  
 Redistributions MUST include this copyright notice and the same license terms.
 
 #### changelog
