@@ -27,4 +27,4 @@ Redistributions MUST include this copyright notice and the same license terms.
 - virtual sd card support
 - reordered menus
 - various calibrations/offsets for my setup
-- started work to break apart config into seperate files
+- broke config sections into separte files
