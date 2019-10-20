@@ -18,6 +18,9 @@ Originally posted on https://www.reddit.com/r/klippers/comments/csjzid/sample_co
 Licensed under CC-BY-SA-4.0 https://choosealicense.com/licenses/cc-by-sa-4.0/  
 Redistributions MUST include this copyright notice and the same license terms.
 
+########################################  
+Inspiration for config break up taken from https://github.com/fl0r1s/cr10_klipper
+
 #### changelog
 - switched to builtin safe z-homing
 - disabled power menu
