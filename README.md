@@ -4,7 +4,8 @@ custom Ender 3 build
 
 - SKR V1.3 board
 - stock steppers
-- TMC2208 drivers in UART mode
+- TMC2208 drivers in UART mode on XYZ
+- LV8729 driver on E
 - BLTouch V3
 - Ender3 stock display
 - BMG style extruder
