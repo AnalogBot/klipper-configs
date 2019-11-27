@@ -31,3 +31,6 @@ Inspiration for config break up taken from https://github.com/fl0r1s/cr10_klippe
 - reordered menus
 - various calibrations/offsets for my setup
 - broke config sections into separte files
+- LV8729 driver on E
+- microsteps back to 16
+- adjustments to load/unload filament scripts
